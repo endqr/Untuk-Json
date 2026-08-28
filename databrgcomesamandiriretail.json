@@ -6,7 +6,7 @@
     "harga": 11000,
     "stok": 18,
     "satuan": "Pcs",
-    "gambar": "img/produk/produk_2.jpg"
+    "gambar": "https://raw.githubusercontent.com/endqr/Untuk-Json/refs/heads/main/img/produk/indomie-goreng.jpg"
   },
   {
     "id": 2,
